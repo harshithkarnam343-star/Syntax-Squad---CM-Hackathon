@@ -1,16 +1,26 @@
-# React + Vite
+# Smart QR Notes Sharing Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: https://syntax-squad-cm-hackathon-harshithkarnam343-stars-projects.vercel.app/
 
-Currently, two official plugins are available:
+💻 Source Code: https://github.com/harshithkarnam343-star/Syntax-Squad---CM-Hackathon
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+Smart QR Notes Sharing Platform helps students organize study resources into folders and generate fixed QR codes for instant access.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Create note folders
+- Generate QR codes from links
+- Persistent storage using localStorage
+- Responsive user interface
+- Instant note access through QR scanning
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- Vite
+- qrcode.react
+- localStorage
+- GitHub
+- Vercel
